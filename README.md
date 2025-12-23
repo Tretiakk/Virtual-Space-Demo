@@ -59,20 +59,14 @@ This creates a foundation for a fully isolated OS environment within Android, of
 
 See my other projects!
 
-<h3>
-  <a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
-    Cap Taxi (Ride-Hailing App)
-  </a>
-</h3>
-<h3>
-  <a href="https://github.com/Tretiakk/Aqua-AI-Demo">
-    Aqua AI (OpenAI Client)
-  </a>
-</h3>
-<h3>
-  <a href="https://github.com/Tretiakk/Above-Music-Demo">
-    Above Music (Offline Music Platform)
-  </a>
-</h3>
+<a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
+  Cap Taxi (Ride-Hailing App)
+</a>
 
+<a href="https://github.com/Tretiakk/Aqua-AI-Demo">
+  Aqua AI (OpenAI Client)
+</a>
 
+<a href="https://github.com/Tretiakk/Above-Music-Demo">
+  Above Music (Offline Music Platform)
+</a>
