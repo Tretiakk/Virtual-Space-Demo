@@ -85,8 +85,8 @@ See my other projects!
   </a>
 </h5>
 <h5>
-  <a href="https://github.com/Tretiakk/Above-Music-Demo">
-    Above Music (Offline Music Platform)
+  <a href="https://github.com/Tretiakk/Anyalen-Demo">
+    Anyalen (Agency MVP)
   </a>
 </h5>
 
