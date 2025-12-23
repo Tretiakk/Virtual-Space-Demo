@@ -2,12 +2,13 @@
 <img src="icon.svg" width="64" height="64">
 App Virtualization Engine which allows the user to bypass fundamental restrictions of the Android system without modifying the OS, enabling system-level control within an isolated environment that functions as a distinct virtual device.
 
-<br>
+<br><br>
+
 
 **Tech Stack:** <br>
-Languages: Java, Kotlin, C++
-Low-level Android Internals: Binder IPC, AIDL, ShadowHook, QBDI, Xposed (Pine), Reflection, Hidden API
-Other: Coroutines, Flow, LiveData, Surface API, WireGuard, SingBox
+Languages: Java, Kotlin, C++<br>
+Low-level Android Internals: Binder IPC, AIDL, ShadowHook, QBDI, Xposed (Pine), Reflection, Hidden API<br>
+Other: Coroutines, Flow, LiveData, Surface API, WireGuard, SingBox<br>
 
 <br>
 <br>
