@@ -57,7 +57,7 @@ This creates a foundation for a fully isolated OS environment within Android, of
 
 <br><br>
 
-### See my other projects!
+See my other projects!
 <h5>
   <a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
     Cap Taxi (Ride-Hailing App)
