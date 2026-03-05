@@ -75,7 +75,7 @@ This creates a foundation for a fully isolated OS environment within Android, of
 <img src="screens-main.png" width="80%">
 <br><br>
 
-See my other projects!
+See my other demos!
 <h5>
   <a href="https://github.com/Tretiakk/Cap-Taxi-Demo">
     Cap Taxi (Ride-Hailing App)
@@ -84,11 +84,6 @@ See my other projects!
 <h5>
   <a href="https://github.com/Tretiakk/Aqua-AI-Demo">
     Aqua AI (OpenAI Client)
-  </a>
-</h5>
-<h5>
-  <a href="https://github.com/Tretiakk/Anyalen-Demo">
-    Anyalen (Agency MVP)
   </a>
 </h5>
 <h5>
