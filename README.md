@@ -23,7 +23,7 @@ Independent Network Layer (Android VpnService API Bypass)
 <br>
 
 <h3>
-  <a href="https://youtu.be/ScTg1wiuQCo">
+  <a href="https://youtu.be/E53-bD7b2pY">
     Video Demo
   </a>
 </h3>
@@ -38,7 +38,7 @@ Injects custom media resources directly into the camera stream, replacing physic
 <br>
 
 <h3>
-  <a href="https://youtu.be/04CarEktblo">
+  <a href="https://youtu.be/YVdXoqgIlnk">
     Video Demo
   </a>
 </h3>
@@ -53,8 +53,8 @@ Virtual Environment Abstraction
 
 <br>
 
-<h3>
-  <a href="https://www.youtube.com/watch?v=Ggslzk5mXnI">
+<h3>https://youtube.com/shorts/
+  <a href="https://www.youtube.com/watch?v=3qz0zVU7dBc">
     Video Demo
   </a>
 </h3>
