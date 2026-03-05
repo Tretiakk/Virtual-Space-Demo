@@ -72,7 +72,7 @@ The project is moving toward a completely invisible virtualization layer, indist
 This creates a foundation for a fully isolated OS environment within Android, offering unimaginable potential for privacy and secure data management.
 
 <br><br>
-<img src="screens-main.png" width="400">
+<img src="screens-main.png" width="80%">
 <br><br>
 
 See my other projects!
